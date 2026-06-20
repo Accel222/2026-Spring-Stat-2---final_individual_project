@@ -1,0 +1,17 @@
+Research Question:
+Is there a linear relationship between screen time and BMI percentile among high school students?
+
+Method:
+Simple linear regression was used with screen_time_hours as the predictor and bmi_percentile as the response variable.
+
+Key Results:
+Sample size = 12844
+Slope = 0.8374
+95% CI for slope = [0.6466, 1.0282]
+p-value = 0.0000
+R-squared = 0.0057
+
+Interpretation:
+For each additional hour of screen time, the predicted BMI percentile changes by about 0.8374 percentile points on average.
+The p-value is less than 0.05, so we reject the null hypothesis. There is statistically significant evidence of a linear relationship between screen time and BMI percentile.
+The result should be interpreted as association, not causation.

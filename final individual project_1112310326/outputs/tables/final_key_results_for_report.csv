@@ -1,0 +1,10 @@
+Item,Result
+Research question,Is there a linear relationship between screen time and BMI percentile among high school students?
+Method,Simple Linear Regression
+Sample size,12844
+Regression equation,Predicted BMI percentile = 61.6837 + 0.8374 × Screen time hours
+Slope,0.8374
+95% CI for slope,"[0.6466, 1.0282]"
+p-value,p < 0.001
+R-squared,0.0057
+Main interpretation,Statistically significant but practically weak positive association

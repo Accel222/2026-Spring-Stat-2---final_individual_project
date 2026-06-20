@@ -1,0 +1,10 @@
+Statistic,Value
+Sample size,12844.0
+Intercept,61.68367361634929
+Slope for screen_time_hours,0.8373799887186484
+t statistic for slope,8.601466711572616
+p-value for slope,8.776814232639069e-18
+95% CI lower for slope,0.6465533104565409
+95% CI upper for slope,1.028206666980756
+R-squared,0.005728190941314715
+Adjusted R-squared,0.0056507675018926395
